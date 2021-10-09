@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# mock data
+/tools/db.json
+
 # testing
 /coverage
 
